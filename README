@@ -1,4 +1,5 @@
 pip install click
+sdadasda
 yum -y install python-gevent-core
 https://github.com/jbfavre/python-zabbix
 pip install -i https://testpypi.python.org/pypi protobix
